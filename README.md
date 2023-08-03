@@ -102,10 +102,12 @@
 
 
 ##  흐름도
-![흐름도](./image/flowMap.png)
+<img width="1107" alt="흐름도" src="https://github.com/Heeseok1210/HairNada/assets/126428471/8f5ded4f-7968-4e32-8a1a-69bc630c52df">
+
 
 ## ERD
-![ERD](./image/ERD.png)
+<img width="918" alt="KakaoTalk_20230801_123437043" src="https://github.com/Heeseok1210/HairNada/assets/126428471/95aeec9b-bb2e-49b6-9f40-aabe11eeefe2">
+
 
 ## 배운점 & 아쉬운점
 
