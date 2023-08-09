@@ -98,7 +98,7 @@
 ## 맡은 서비스
 ### - 헤어 스타일  - <a href="" >상세보기 - WIKI 이동</a>
 ### - 제품  - <a href="https://github.com/Heeseok1210/HairNada/wiki/%EC%A0%9C%ED%92%88-%EC%83%81%EC%84%B8" >상세보기 - WIKI 이동</a>
-### - 커뮤니티  - <a href="" >상세보기 - WIKI 이동</a>
+### - 커뮤니티  - <a href="https://github.com/Heeseok1210/HairNada/wiki/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0-%EC%83%81%EC%84%B8" >상세보기 - WIKI 이동</a>
 
 
 ##  흐름도
