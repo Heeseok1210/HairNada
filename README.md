@@ -109,5 +109,3 @@
 <img width="918" alt="KakaoTalk_20230801_123437043" src="https://github.com/Heeseok1210/HairNada/assets/126428471/95aeec9b-bb2e-49b6-9f40-aabe11eeefe2">
 
 
-## 배운점 & 아쉬운점
-
